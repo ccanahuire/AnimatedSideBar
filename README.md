@@ -1,4 +1,4 @@
-# Custom Navigation Drawer
+# Custom Navigation Drawer in Jetpack Compose
 
 This project demonstrates how to create a custom navigation drawer with a special animation of the content. The animation slides the content in from the side and adds an slightly rotation over the Y axis.
 
